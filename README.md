@@ -8,15 +8,10 @@ To build this solution, I worked through the complete Power BI workflow — from
 This project strengthened my skills in data modeling, DAX Calculations, dashboard design and business‑focused analytics. More importantly, it helped me understand how to translate complex datasets into actionable insights that support user retention strategies. 
 
 📌 Total users, Churned users, Active users and Churn rate KPI’s
-
 📌 Gender-wise and Age-group-wise churn analysis
-
 📌 Churn Rate by device Type, Network type, Top genre and Buffering Time
-
 📌 Subscription plan churn comparison on Current plan, previous plan 
-
 📌 DAX measures for Current plan, previous plan, churn difference and churn % change.
-
 📌 Slicer using payment method and auto-renewal
 
 🔧 Tools & Skills Used:

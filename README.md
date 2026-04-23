@@ -33,4 +33,4 @@ The dashboard was built using the following tools and technologies:
  ✅ Sbscription Renewal reminders can set to users
  
 This project helped me strengthen my data analysis, visualization and insight generation skills.
-🎵📊  Dashboard Screenshot : https://github.com/cinuabraham/Churn-Music-Dashboard/blob/main/Churn_Music_Screenshot.png
+🎵📊  Dashboard Screenshot :![Dashboard Preview](https://github.com/cinuabraham/Churn-Music-Dashboard/blob/main/Churn_Music_Screenshot.png)

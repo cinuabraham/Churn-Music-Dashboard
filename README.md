@@ -67,7 +67,7 @@ The dashboard was built using the following tools and technologies:
  
  ✅ Premium content teasers can be introduced to Family and Free subscription users
  
- ✅ Sbscription Renewal reminders can set to users
+ ✅ Subscription Renewal reminders can set to users
  
  
 This project helped me strengthen my data analysis, visualization and insight generation skills.

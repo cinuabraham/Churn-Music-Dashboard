@@ -28,8 +28,6 @@ The dashboard was built using the following tools and technologies:
 
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
 
-• 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
-
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 • 📘 End-to-end analytical storytelling

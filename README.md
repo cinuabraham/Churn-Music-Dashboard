@@ -59,13 +59,13 @@ The dashboard was built using the following tools and technologies:
 
  The leadership team can use these insights to take actions on ways to reduce the churn such as 
  
- ✅Enable Auto-Renewal by Default
+ ✅Enable Auto-Renewal by Default -Even a 1–2% drop in churn can add 40–90 extra active users per cycle (based on 4,600 users)
  
- ✅ For Free-plan subscription users, Trial extensions and limited time discounts
+ ✅ For Free-plan subscription users, Trial extensions and limited time discounts- If Free‑plan churn improves by just 3%, it can  retain approximate 140 more users
  
- ✅ Premium content teasers can be introduced to Family and Free subscription users
+ ✅ Premium content teasers can be introduced to Family and Free subscription users - 1% improvement adds around 46 active users
  
- ✅ Subscription Renewal reminders can set to users
+ ✅ Subscription Renewal reminders can set to users - 0.5–1% improvement adds 23–46 active users
  
  
 This project helped me strengthen my data analysis, visualization and insight generation skills.
